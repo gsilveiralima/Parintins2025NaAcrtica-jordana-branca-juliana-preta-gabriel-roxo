@@ -21,4 +21,32 @@ Use este link curto para fácil acesso:
 
 ➡️ [https://tinyurl.com/parintins2025-jbg](https://tinyurl.com/parintins2025-jbg)
 
-Ou acesse diretamente:
+Ou acesse diretamente:https://gabrielsilveira.github.io/parintins2025
+
+O QR Code contido no banner também direciona para o site ao vivo.
+
+---
+
+## 📁 Como utilizar
+
+1. Clone ou faça download do repositório.
+2. O site está em `index.html` (na raiz).
+3. O vídeo institucional (formato horizontal e vertical) está na raiz do repositório.
+4. Basta subir para o **GitHub Pages** com branch `main` e fonte `root`.
+5. O site será publicado automaticamente.
+
+---
+
+## 👤 Autoria e Direitos
+
+**Gabriel Silveira Lima** – Especialista em Segurança Pública e Estudos Culturais  
+**ChatGPT (OpenAI)** – Estrutura simbólica e estética com IA
+
+---
+
+## 🌟 Nota Final
+
+> “Cada pena carrega uma história. E cada história merece ser sentida.”  
+> — Manifesto Parintins 2025 na A Crítica
+
+---
