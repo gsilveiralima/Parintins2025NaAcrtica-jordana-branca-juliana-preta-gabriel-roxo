@@ -1,32 +1,24 @@
-# Parintins 2025 na A Crítica — Jordana Branca, Juliana Preta, Gabriel Roxo
+# Parintins 2025 na A Crítica  
+**Jordana Branca · Juliana Preta · Gabriel Roxo**
 
-Este repositório contém um **painel interativo simbólico** sobre o Festival de Parintins 2025, com foco na toada *“Amazônia: Nossa Luta em Poesia”* e na leitura RMC (Raciocínio, Memória e Cognição).
-
-## 🔥 Funcionalidades do site
-
-- Layout responsivo com tema escuro persistente
-- Botão "Voltar ao Topo" flutuante
-- Trilha sonora da toada
-- Galeria visual ilustrativa
-- Interpretação simbólica dos elementos culturais
-- Assinatura institucional do autor
-
-## 🎨 Autoria
-
-**Gabriel Silveira Lima**  
-Especialista em Segurança Pública e Estudos Culturais
-
-**ChatGPT (OpenAI)**  
-Apoio em estrutura, design e execução simbólica com IA
-
-## 📸 Visual
-
-![Capa do Projeto](banner_parintins2025.png)
-
-## 🔗 Acesse o site
-
-➡️ [Clique aqui para acessar o site ao vivo](https://gabrielsilveira.github.io/parintins2025)
+Este repositório abriga o **painel interativo simbólico** do Festival de Parintins 2025, com leitura RMC (Raciocínio, Memória e Cognição) e interpretação cultural profunda.
 
 ---
 
-> “Cada pena é um verso. Cada tambor, uma denúncia. O boi dança, mas também sentencia.”  
+## 🔥 Recursos Interativos
+
+- 🖥 Site responsivo com modo escuro e fade-in
+- 🎧 Trilha sonora simbólica com batida tribal
+- 📷 Galeria visual com imagens do festival
+- 🎬 Vídeo institucional (1080×1080 e vertical 1080×1920)
+- 📘 Manifesto visual com leitura poética e simbólica
+
+---
+
+## 📌 Acesso ao projeto
+
+Use este link curto para fácil acesso:
+
+➡️ [https://tinyurl.com/parintins2025-jbg](https://tinyurl.com/parintins2025-jbg)
+
+Ou acesse diretamente:
